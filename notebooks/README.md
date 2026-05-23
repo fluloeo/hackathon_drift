@@ -1,0 +1,3 @@
+- `eda.ipynb` - EDA
+- `train.ipynb` - Обучение модели
+- `interpretation.ipynb` - интерпретация итоговой модели, shap values, веса признаков
