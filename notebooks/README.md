@@ -1,3 +1,5 @@
 - `eda.ipynb` - EDA
-- `train.ipynb` - Обучение модели
+- `drift_features` - Анализ дрифтующих признаков
+- `ensemble.ipynb` - Усреднение моделий с разным seed
+- `weight_optimize.ipynb` - Обучение модели и оптимизация весов признаков
 - `interpretation.ipynb` - интерпретация итоговой модели, shap values, веса признаков
